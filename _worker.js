@@ -8872,3 +8872,4 @@ js-sha256/src/sha256.js:
    *)
 */
 //# sourceMappingURL=worker.js.map
+/test
